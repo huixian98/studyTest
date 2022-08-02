@@ -21,8 +21,7 @@ public class Application {
 	public static void main(String[] args) throws InterruptedException {
 		SpringApplication.run(Application.class, args);
 		LOGGER.info("项目启动 ");
-		System.out.println("将test合并到staging部署测试环境，学习处理冲突");
-		System.out.println("更新");
+		System.out.println("使用命令行操作合并");
 
 	}
 }
