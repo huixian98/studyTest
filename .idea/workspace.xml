@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e51d35c-04f8-4145-9544-97653037389d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-seckill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-seckill.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itstyle/seckill/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itstyle/seckill/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +288,7 @@
       <workItem from="1528274525890" duration="20000" />
       <workItem from="1530773890785" duration="1200000" />
       <workItem from="1530775274900" duration="4194000" />
-      <workItem from="1659438527192" duration="262000" />
+      <workItem from="1659438527192" duration="955000" />
     </task>
     <servers />
   </component>

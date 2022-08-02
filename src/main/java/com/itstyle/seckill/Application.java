@@ -22,6 +22,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		LOGGER.info("项目启动 ");
 		System.out.println("修改测试test");
+		System.out.println("测试如何提交2");
 
 	}
 }
