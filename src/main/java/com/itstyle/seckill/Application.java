@@ -23,5 +23,6 @@ public class Application {
 		LOGGER.info("项目启动 ");
 		System.out.println("使用命令行操作合并");
 
+		System.out.println("student张三");
 	}
 }
